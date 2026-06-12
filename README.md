@@ -1,5 +1,5 @@
 # 🚀 Astro Serial Telemetry Base
-🌐 **[VER DEMO EN VIVO](https://astro.build/)** (Pruébalo con el Simulador integrado)
+🌐 **[VER DEMO EN VIVO](https://astrost.pages.dev/)** (Pruébalo con el Simulador integrado)
 
 Un boilerplate (plantilla base) moderno y ultra rápido para visualizar telemetría desde microcontroladores (Arduino, ESP32, STM32) directamente en el navegador.
 
