@@ -1,7 +1,9 @@
 # 🚀 Astro Serial Telemetry Base
 Un boilerplate (plantilla base) moderno y ultra rápido para visualizar telemetría desde microcontroladores (Arduino, ESP32, STM32) directamente en el navegador.
 
-Construido por **JL91 Software**, este proyecto utiliza la ***Web Serial API*** para leer datos por USB sin necesidad de instalar servidores locales, *Node.js* en el backend, ni bases de datos. Simplemente conecta, abre la web y visualiza.
+Este proyecto utiliza la ***Web Serial API*** para leer datos por USB sin necesidad de instalar servidores locales, *Node.js* en el backend, ni bases de datos. Simplemente conecta, abre la web y visualiza.
+
+![Aplicación ScreenShot](/src/assets/AstroSerial_SS.png "Captura de pantalla")
 
 ## ✨ Características
 * 🔌 __Cero Backend:__ Comunicación directa entre el navegador y el puerto serial del microcontrolador.
